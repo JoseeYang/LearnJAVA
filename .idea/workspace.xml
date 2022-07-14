@@ -1,22 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6b86bf91-70bb-4879-8289-930f9e6567de" name="变更" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day01-code/day01-code.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day01-code/src/com/bilibili/arraydemo/ArrayDemo1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day01-code/src/com/bilibili/methoddemo/MethodDemo1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day01-code/src/com/bilibili/methoddemo/MethodDemo2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day01-code/src/com/bilibili/methoddemo/MethodDemo3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day01-code/src/com/bilibili/test/Test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day01-code/src/com/bilibili/test/Test2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day01-code/src/com/bilibili/test/Test3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day01-code/src/com/bilibili/test/Test4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day01-code/src/com/bilibili/test/Test5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day01-code/src/com/bilibili/test/Test6.java" afterDir="false" />
+    <list default="true" id="6b86bf91-70bb-4879-8289-930f9e6567de" name="变更" comment="7.13修正">
+      <change afterPath="$PROJECT_DIR$/day02-code/day02-code.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day02-code/src/com/bilibili/classdemo/test1/Phone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day02-code/src/com/bilibili/classdemo/test1/PhoneTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day02-code/src/com/bilibili/classdemo/test1/test3/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day02-code/src/com/bilibili/classdemo/test1/test3/StudentTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day02-code/src/com/bilibili/classdemo/test2/GirlFriend.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day02-code/src/com/bilibili/classdemo/test2/GirlFriendTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day02-code/src/com/bilibili/classdemo/test4/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day02-code/src/com/bilibili/classdemo/test4/UserTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day02-code/src/com/bilibili/classdemo/test5/Role.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day02-code/src/com/bilibili/classdemo/test5/RoleTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day02-code/src/com/bilibili/classdemo/test5plus/RolePlus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day02-code/src/com/bilibili/classdemo/test5plus/RolePlusTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day02-code/src/com/bilibili/classdemo/test6/Commodity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day02-code/src/com/bilibili/classdemo/test6/CommodityTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day02-code/src/com/bilibili/classdemo/test7/Phone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day02-code/src/com/bilibili/classdemo/test7/PhoneTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day02-code/src/com/bilibili/string/StringDemo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day02-code/src/com/bilibili/string/StringDemo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day02-code/src/com/bilibili/string/StringDemo3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day02-code/src/com/bilibili/string/StringDemo4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day02-code/src/com/bilibili/string/StringDemo5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day02-code/src/com/bilibili/string/StringDemo6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day02-code/src/com/bilibili/test/Test1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LearnJAVA.iml" beforeDir="false" afterPath="$PROJECT_DIR$/LearnJAVA.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day01-code/src/com/bilibili/test/Test6.java" beforeDir="false" afterPath="$PROJECT_DIR$/day01-code/src/com/bilibili/test/Test6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/day01-code/com/bilibili/test/Test5.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/day01-code/com/bilibili/test/Test5.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,6 +42,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="package-info" />
         <option value="Class" />
       </list>
     </option>
@@ -39,6 +53,9 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
   <component name="ProjectId" id="2BrevbI5YxNGh4LUl7c3LXldaHu" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -47,27 +64,32 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "jdk.selected.JAVA_MODULE": "17",
-    "project.structure.last.edited": "模块",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "Console"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;17&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;模块&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="应用程序.Test5">
-    <configuration name="Test1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.bilibili.test.Test1" />
-      <module name="day01-code" />
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.bilibili.test" />
+    </key>
+  </component>
+  <component name="RunManager" selected="应用程序.StringDemo6">
+    <configuration name="PhoneTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.bilibili.classdemo.test7.PhoneTest" />
+      <module name="day02-code" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.bilibili.test.*" />
+          <option name="PATTERN" value="com.bilibili.classdemo.test7.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -75,12 +97,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.bilibili.test.Test2" />
-      <module name="day01-code" />
+    <configuration name="StringDemo3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.bilibili.string.StringDemo3" />
+      <module name="day02-code" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.bilibili.test.*" />
+          <option name="PATTERN" value="com.bilibili.string.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -88,12 +110,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.bilibili.test.Test3" />
-      <module name="day01-code" />
+    <configuration name="StringDemo4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.bilibili.string.StringDemo4" />
+      <module name="day02-code" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.bilibili.test.*" />
+          <option name="PATTERN" value="com.bilibili.string.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -101,12 +123,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.bilibili.test.Test4" />
-      <module name="day01-code" />
+    <configuration name="StringDemo5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.bilibili.string.StringDemo5" />
+      <module name="day02-code" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.bilibili.test.*" />
+          <option name="PATTERN" value="com.bilibili.string.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -114,12 +136,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.bilibili.test.Test5" />
-      <module name="day01-code" />
+    <configuration name="StringDemo6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.bilibili.string.StringDemo6" />
+      <module name="day02-code" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.bilibili.test.*" />
+          <option name="PATTERN" value="com.bilibili.string.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -127,13 +149,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <list>
+      <item itemvalue="应用程序.StringDemo5" />
+      <item itemvalue="应用程序.StringDemo6" />
+      <item itemvalue="应用程序.PhoneTest" />
+      <item itemvalue="应用程序.StringDemo3" />
+      <item itemvalue="应用程序.StringDemo4" />
+    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="应用程序.Test5" />
-        <item itemvalue="应用程序.Test4" />
-        <item itemvalue="应用程序.Test3" />
-        <item itemvalue="应用程序.Test2" />
-        <item itemvalue="应用程序.Test1" />
+        <item itemvalue="应用程序.StringDemo6" />
+        <item itemvalue="应用程序.StringDemo5" />
+        <item itemvalue="应用程序.StringDemo4" />
+        <item itemvalue="应用程序.StringDemo3" />
+        <item itemvalue="应用程序.PhoneTest" />
       </list>
     </recent_temporary>
   </component>
@@ -149,7 +178,20 @@
       <workItem from="1657690168678" duration="3015000" />
       <workItem from="1657693218236" duration="1034000" />
       <workItem from="1657694270201" duration="8971000" />
+      <workItem from="1657728609885" duration="155000" />
+      <workItem from="1657728991677" duration="172000" />
+      <workItem from="1657753394505" duration="28528000" />
+      <workItem from="1657798286751" duration="1232000" />
+      <workItem from="1657800620838" duration="5373000" />
     </task>
+    <task id="LOCAL-00001" summary="7.13修正">
+      <created>1657728663568</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1657728663568</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -168,6 +210,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="7.13修正" />
+    <option name="LAST_COMMIT_MESSAGE" value="7.13修正" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

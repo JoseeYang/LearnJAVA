@@ -1,61 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6b86bf91-70bb-4879-8289-930f9e6567de" name="变更" comment="7.15修正">
-      <change afterPath="$PROJECT_DIR$/day04-code/day04-code.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day04-code/src/com/bilibili/a01extenddemo1/Fu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day04-code/src/com/bilibili/a01extenddemo1/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day04-code/src/com/bilibili/a01extenddemo1/Zi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day04-code/src/com/bilibili/a02extenddemo1/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day04-code/src/com/bilibili/a02extenddemo1/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day04-code/src/com/bilibili/a02extenddemo1/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day04-code/src/com/bilibili/a03extenddemo1/Cook.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day04-code/src/com/bilibili/a03extenddemo1/Employ.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day04-code/src/com/bilibili/a03extenddemo1/Manager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day04-code/src/com/bilibili/a03extenddemo1/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day04-code/src/com/bilibili/a04polymorphicdemo1/Admin.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day04-code/src/com/bilibili/a04polymorphicdemo1/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day04-code/src/com/bilibili/a04polymorphicdemo1/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day04-code/src/com/bilibili/a04polymorphicdemo1/Teacher.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day04-code/src/com/bilibili/a04polymorphicdemo1/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day04-code/src/com/bilibili/a05polymorphicdemo1/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day04-code/src/com/bilibili/a06polymorphicdemo1/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day04-code/src/com/bilibili/a07polymorphicdemo1/A_RequirementsDocument.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day04-code/src/com/bilibili/a07polymorphicdemo1/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day04-code/src/com/bilibili/a07polymorphicdemo1/Cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day04-code/src/com/bilibili/a07polymorphicdemo1/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day04-code/src/com/bilibili/a07polymorphicdemo1/Personal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day04-code/src/com/bilibili/a07polymorphicdemo1/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day04-code/src/com/bilibili/a08finaldemo1/FinalDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day04-code/com/bilibili/a01extenddemo1/Fu.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day04-code/com/bilibili/a01extenddemo1/Test.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day04-code/com/bilibili/a01extenddemo1/Zi.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day04-code/com/bilibili/a02extenddemo1/Person.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day04-code/com/bilibili/a02extenddemo1/Student.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day04-code/com/bilibili/a02extenddemo1/Test.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day04-code/com/bilibili/a03extenddemo1/Cook.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day04-code/com/bilibili/a03extenddemo1/Employ.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day04-code/com/bilibili/a03extenddemo1/Manager.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day04-code/com/bilibili/a03extenddemo1/Test.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day04-code/com/bilibili/a04polymorphicdemo1/Admin.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day04-code/com/bilibili/a04polymorphicdemo1/Person.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day04-code/com/bilibili/a04polymorphicdemo1/Student.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day04-code/com/bilibili/a04polymorphicdemo1/Teacher.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day04-code/com/bilibili/a04polymorphicdemo1/Test.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day04-code/com/bilibili/a05polymorphicdemo1/Animal.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day04-code/com/bilibili/a05polymorphicdemo1/Cat.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day04-code/com/bilibili/a05polymorphicdemo1/Dog.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day04-code/com/bilibili/a05polymorphicdemo1/Test.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day04-code/com/bilibili/a06polymorphicdemo1/Animal.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day04-code/com/bilibili/a06polymorphicdemo1/Cat.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day04-code/com/bilibili/a06polymorphicdemo1/Dog.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day04-code/com/bilibili/a06polymorphicdemo1/Test.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day04-code/com/bilibili/a07polymorphicdemo1/Animal.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day04-code/com/bilibili/a07polymorphicdemo1/Cat.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day04-code/com/bilibili/a07polymorphicdemo1/Dog.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day04-code/com/bilibili/a07polymorphicdemo1/Personal.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day04-code/com/bilibili/a07polymorphicdemo1/RequirementsDocument.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day04-code/com/bilibili/a07polymorphicdemo1/Test.class" afterDir="false" />
+    <list default="true" id="6b86bf91-70bb-4879-8289-930f9e6567de" name="变更" comment="7.16修正">
+      <change afterPath="$PROJECT_DIR$/day05-code/day05-code.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day05-code/src/com/bilibili/abstractdemo1/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day05-code/src/com/bilibili/abstractdemo1/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day05-code/src/com/bilibili/abstractdemo1/Teacher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day05-code/src/com/bilibili/abstractdemo1/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day05-code/src/com/bilibili/codeblockdemo1/CodeBlock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day05-code/src/com/bilibili/interfacedemo1/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day05-code/src/com/bilibili/interfacedemo1/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day05-code/src/com/bilibili/interfacedemo1/Frog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day05-code/src/com/bilibili/interfacedemo1/Rabbit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day05-code/src/com/bilibili/interfacedemo1/Swim.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day05-code/src/com/bilibili/interfacedemo1/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/day05-code/com/bilibili/abstractdemo1/Person.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/day05-code/com/bilibili/abstractdemo1/Student.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/day05-code/com/bilibili/abstractdemo1/Teacher.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/day05-code/com/bilibili/abstractdemo1/Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/day05-code/com/bilibili/codeblockdemo1/CodeBlock.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/day05-code/com/bilibili/interfacedemo1/Animal.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/day05-code/com/bilibili/interfacedemo1/Dog.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/day05-code/com/bilibili/interfacedemo1/Frog.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/day05-code/com/bilibili/interfacedemo1/Rabbit.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/day05-code/com/bilibili/interfacedemo1/Swim.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/day05-code/com/bilibili/interfacedemo1/Test.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -71,6 +40,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="package-info" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -111,26 +81,13 @@
       <recent name="com.bilibili.test" />
     </key>
   </component>
-  <component name="RunManager" selected="应用程序.com.bilibili.a07polymorphicdemo1.Test">
-    <configuration name="com.bilibili.a02extenddemo1.Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.bilibili.a02extenddemo1.Test" />
-      <module name="day04-code" />
+  <component name="RunManager" selected="应用程序.com.bilibili.interfacedemo1.Test">
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.bilibili.abstractdemo1.Test" />
+      <module name="day05-code" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.bilibili.a02extenddemo1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="com.bilibili.a03extenddemo1.Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.bilibili.a03extenddemo1.Test" />
-      <module name="day04-code" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.bilibili.a03extenddemo1.*" />
+          <option name="PATTERN" value="com.bilibili.abstractdemo1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -177,13 +134,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="com.bilibili.interfacedemo1.Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.bilibili.interfacedemo1.Test" />
+      <module name="day05-code" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bilibili.interfacedemo1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="应用程序.com.bilibili.interfacedemo1.Test" />
+        <item itemvalue="应用程序.Test" />
         <item itemvalue="应用程序.com.bilibili.a07polymorphicdemo1.Test" />
         <item itemvalue="应用程序.com.bilibili.a05polymorphicdemo1.Test" />
         <item itemvalue="应用程序.com.bilibili.a04polymorphicdemo1.Test" />
-        <item itemvalue="应用程序.com.bilibili.a03extenddemo1.Test" />
-        <item itemvalue="应用程序.com.bilibili.a02extenddemo1.Test" />
       </list>
     </recent_temporary>
   </component>
@@ -209,7 +179,9 @@
       <workItem from="1657930542405" duration="384000" />
       <workItem from="1657930937966" duration="4290000" />
       <workItem from="1657936273950" duration="1491000" />
-      <workItem from="1657959589053" duration="5628000" />
+      <workItem from="1657959589053" duration="6094000" />
+      <workItem from="1657980372134" duration="77000" />
+      <workItem from="1658023793879" duration="6121000" />
     </task>
     <task id="LOCAL-00001" summary="7.13修正">
       <created>1657728663568</created>
@@ -232,7 +204,14 @@
       <option name="project" value="LOCAL" />
       <updated>1657930509746</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="7.16修正">
+      <created>1657979536043</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1657979536043</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -266,7 +245,8 @@
     <MESSAGE value="7.13修正" />
     <MESSAGE value="7.14修正" />
     <MESSAGE value="7.15修正" />
-    <option name="LAST_COMMIT_MESSAGE" value="7.15修正" />
+    <MESSAGE value="7.16修正" />
+    <option name="LAST_COMMIT_MESSAGE" value="7.16修正" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
